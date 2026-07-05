@@ -1,0 +1,19 @@
+[
+  {
+    "screenId": "ebc2a91b9e7647188422243ba97d9255",
+    "title": "Status Utility - Pulse Card Desk",
+    "componentName": "StatusUtilityPulseCardDesk",
+    "file": "src/screens/StatusUtilityPulseCardDesk.tsx",
+    "buttons": 1,
+    "inputs": 1,
+    "links": 0,
+    "actions": [
+      {
+        "id": "refresh-status-1",
+        "kind": "button",
+        "label": "Refresh Status",
+        "index": 0
+      }
+    ]
+  }
+]
