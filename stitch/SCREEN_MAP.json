@@ -1,0 +1,11 @@
+[
+  {
+    "screenId": "ebc2a91b9e7647188422243ba97d9255",
+    "name": "Status Utility - Pulse Card Desk",
+    "type": "app-screen",
+    "description": "Status Utility - Pulse Card Desk screen",
+    "surfaceIds": [
+      "SURF_STATUS_UTILITY"
+    ]
+  }
+]
